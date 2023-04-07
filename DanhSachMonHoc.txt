@@ -1,7 +1,0 @@
-6
-GT1-Giai tich 1
-VL1-Vat ly 1
-DS-Dai so-
-THCS1-Tin hoc co so 1
-GDTC-Giao duc the chat
-TAC1-Tieng anh course 1
